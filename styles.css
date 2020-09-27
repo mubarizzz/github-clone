@@ -462,7 +462,11 @@ hr {
 	}
 }
 
-@media all and (max-width: 411px) {
+.main_right {
+	margin-top: 2em;
+}
+
+@media all and (max-width: 425px) {
 	.main_body {
 		display: block;
 	}
